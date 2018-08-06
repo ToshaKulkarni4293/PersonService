@@ -2,6 +2,6 @@
 
 - CrudRepository function of fetch all Users
 
-- Used Spring REST
+- REST based controller using Spring Boot
 
 - Hibernate as an ORM tool is used
